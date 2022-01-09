@@ -1,1 +1,2 @@
 Hi This is Sample text file for git operations
+Hi This is second editing done after first commit
